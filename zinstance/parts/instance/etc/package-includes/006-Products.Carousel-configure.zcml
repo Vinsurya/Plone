@@ -1,0 +1,1 @@
+<include package="Products.Carousel" file="configure.zcml" />
