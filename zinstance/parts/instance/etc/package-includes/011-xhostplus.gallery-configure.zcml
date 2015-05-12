@@ -1,0 +1,1 @@
+<include package="xhostplus.gallery" file="configure.zcml" />

@@ -1,0 +1,1 @@
+<include package="collective.js.datatables" file="configure.zcml" />
